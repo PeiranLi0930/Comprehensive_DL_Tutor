@@ -1,5 +1,5 @@
 NOTE: This repo is currently being fixed and finished!
-- I am now re-implementing all of the codes in Pytorch!
+- I am now re-implementing all of the codes in Pytorch (Don't worry if you are only familiar PyTorch now!)
 - In the future, this document will be transformed into an interactive e-book for easy searching and studying.
 - Now that I am working on my own, if you are interested in ML/DL/CV, please email me and welcome to my workspace! (You can find my email 
 on my Github Homepage)
@@ -16,6 +16,7 @@ I'd want to thank all of my teachers and professors for their help and guidance 
 
 This program includes:
   - Machine Learning Specialization
+  - Matrix Methods in Data Mining and Pattern Recognition (A new viewpoint of ML problems)
   - Deep Learning Specialization 
   - Deep Learning in Computer Vision
   - The Collection of Relavant Papers
