@@ -1,6 +1,6 @@
 NOTE: This repo is currently being fixed and finished!
-- I am now re-implementing all of the codes in Pytorch (Don't worry if you are only familiar PyTorch now!)
-- In the future, this document will be transformed into an interactive e-book for easy searching and studying.
+- I am now re-implementing all of the codes in Pytorch (Don't worry if you are only familiar with PyTorch now!)
+- In the future, this document will be transformed into an interactive e-book for easy searching and studying
 - Now that I am working on my own, if you are interested in ML/DL/CV, please email me and welcome to my workspace! (You can find my email 
 on my Github Homepage)
 
@@ -26,7 +26,7 @@ This program includes:
   
 
 ### Declarations:
-- Feel free to share but DO NOT replicate, sell, or any commercial behavior
+- Feel free to share but DO NOT replicate, sell, or any commercial behaviors
 - Appreciate all instructors and professors who contribute to these contents
 - All the contents have the permissions to share and propagate
 - Keep to the Open-source Protocol
