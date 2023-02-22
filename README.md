@@ -30,7 +30,7 @@ This program includes:
 - All the contents have the permissions to share and propagate
 - Keep to the Open-source Protocol
 
-© 2022 - Peiran USA - All rights reserved 
+© 2022 - Peiran in USA - All rights reserved 
 
 ---
 
