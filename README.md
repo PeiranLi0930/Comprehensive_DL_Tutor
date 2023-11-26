@@ -1,4 +1,5 @@
 # Comprehensive Deep Learning Tutorial: From Zero To Hero 🌟
+### $${\color{red}\text{New\ Version\ Being\ Updated!\ Last\ Update:\ Nov26,\ 2023}}$$
 
 ## Welcome to Your Deep Learning Odyssey! 🚀
 
@@ -30,13 +31,19 @@ Embark on a transformative journey into the world of deep learning with "Compreh
 
 As the sole creator of this project, I've woven my personal experiences, learnings, and passion for deep learning into every aspect of this tutorial. My aim is to make deep learning accessible, enjoyable, and profoundly educational for everyone.
 
+## Contents
+1. **Scientific Python Fast Tutorials**
+  - [New to Numpy?](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/ScientificPy/NumpyTutorial.ipynb)
+  - [New to Matplotlib?]()
+2. ****
+
 ## Contribute & Collaborate 👐
 
 Your contributions, feedback, and insights are invaluable. Let's grow this repository together! Check our [contributing guidelines](CONTRIBUTING_LINK) for more details.
 
 ## License 📄
 
-This project is licensed under the MIT License - see [LICENSE.md](LICENSE_LINK) for details.
+This project is licensed under the MIT License - see [LICENSE.md](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/LICENSE) for details.
 
 ## Acknowledgements & Thanks 🙏
 
