@@ -1,37 +1,47 @@
-NOTE: This repo is currently being fixed and finished!
-- I am now re-implementing all of the codes in Pytorch (Don't worry if you are only familiar with PyTorch now!)
-- In the future, this document will be transformed into an interactive e-book for easy searching and studying
-- Now that I am working on my own, if you are interested in ML/DL/CV, please email me and welcome to my workspace! (You can find my email 
-on my Github Homepage)
+# Comprehensive Deep Learning Tutorial: From Zero To Hero 🌟
 
-# Deep Learning & Machine Learning Algorithms and Applications
+## Welcome to Your Deep Learning Odyssey! 🚀
 
-## Introduction
-To better express these concepts and bring the general public into the domains of Machine Learning and Deep Learning, 
-I am creating and organizing this repository to display comprehensive facts and expertise in an approachable manner. 
-To be honest, developing complete specialities is difficult and time intensive. 
-As a result, if there is an error or something incorrect, I would appreciate all corrections and recommendations.
+Embark on a transformative journey into the world of deep learning with "Comprehensive Deep Learning Tutorial: From Zero To Hero". This meticulously crafted tutorial is your personal guide through the fascinating universe of neural networks and AI innovation. Whether you're just starting or aiming to refine your expertise, this repository is your beacon in the expansive deep learning landscape.
 
-I'd want to thank all of my teachers and professors for their help and guidance during my education.
+## Why This Tutorial? 🤔
 
-This program includes:
-  - Machine Learning Specialization
-  - Matrix Methods in Data Mining and Pattern Recognition (A new viewpoint of ML problems)
-  - Deep Learning Specialization 
-  - Deep Learning in Computer Vision
-  - The Collection of Relavant Papers
-  - The Proofs of All Applied Axioms
-  - All Codes Implemented by Tensorflow 2.x Currently
+- **Holistic Approach:** Integrates coding fundamentals, algorithmic understanding, and insights into the latest research.
+- **Bite-Sized Learning:** Complex concepts broken down into manageable, understandable segments.
+- **Hands-On Experience:** From theory to practice, engage with interactive projects and exercises.
+- **Continuously Updated:** Stay at the forefront of deep learning with ongoing updates on new papers and algorithms.
+- **Personal Journey:** Crafted with care and expertise, reflecting a deep commitment to spreading knowledge.
 
-  
+## Inside the Tutorial 📚
 
-### Declarations:
-- Feel free to share but DO NOT replicate, sell, or any commercial behaviors
-- Appreciate all instructors and professors who contribute to these contents
-- All the contents have the permissions to share and propagate
-- Keep to the Open-source Protocol
+1. **Deep Dive into Basics:** Begin your journey with a solid foundation in deep learning principles.
+2. **Algorithms Unpacked:** From CNNs to GANs, explore each algorithm with intuitive explanations.
+3. **Cutting-Edge Research:** Delve into recent papers, demystifying the latest advancements in the field.
+4. **Project-Based Learning:** Solidify your knowledge by building real-world applications.
+5. **Community and Collaboration:** Engage with fellow learners, share insights, and grow together.
 
-© 2022 - Peiran in USA - All rights reserved 
+## Getting Started 🌱
+
+- **Clone the Repo:** `git clone [repo-link]`
+- **Explore the Modules:** Each module is a step in your learning path, designed to build on the previous one.
+- **Join the Community:** Participate in discussions, contribute to the project, and collaborate with peers.
+
+## Your Guide 🧭
+
+As the sole creator of this project, I've woven my personal experiences, learnings, and passion for deep learning into every aspect of this tutorial. My aim is to make deep learning accessible, enjoyable, and profoundly educational for everyone.
+
+## Contribute & Collaborate 👐
+
+Your contributions, feedback, and insights are invaluable. Let's grow this repository together! Check our [contributing guidelines](CONTRIBUTING_LINK) for more details.
+
+## License 📄
+
+This project is licensed under the MIT License - see [LICENSE.md](LICENSE_LINK) for details.
+
+## Acknowledgements & Thanks 🙏
+
+A heartfelt thank you to all who have supported and inspired this endeavor. Together, we're not just learning deep learning; we're shaping the future of AI!
 
 ---
 
+Dive in now and transform from a curious learner to a deep learning hero! 💥
