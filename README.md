@@ -1,5 +1,5 @@
 # Comprehensive Deep Learning Tutorial: From Zero To Hero 🌟
-### $${\color{red}\text{New\ Version\ Being\ Updated!\ Last\ Update:\ Nov26,\ 2023}}$$
+### $${\color{red}\text{New\ Version\ Being\ Updated!\ Last\ Update:\ Nov27,\ 2023}}$$
 
 ## Welcome to Your Deep Learning Odyssey! 🚀
 
@@ -35,7 +35,9 @@ As the sole creator of this project, I've woven my personal experiences, learnin
 1. **Scientific Python Fast Tutorials**
   - [New to Numpy?](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/ScientificPy/NumpyTutorial.ipynb)
   - [New to Matplotlib?]()
-2. ****
+2. **Machine Learning Bases**
+  - [sklearn Tutorials](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sclearn_tutorial/1.%20Intro%20To%20sclearn.ipynb)-- An assistant tool to help you focus on concepts but details
+  - 
 
 ## Contribute & Collaborate 👐
 
