@@ -1,5 +1,5 @@
 # Comprehensive Deep Learning Tutorial: From Zero To Hero 🌟
-### $${\color{red}\text{New\ Version\ Being\ Updated!\ Last\ Update:\ Nov27,\ 2023}}$$
+### $${\color{red}\text{New\ Version\ Being\ Updated!\ Last\ Update:\ DEC\ 23,\ 2023}}$$
 
 ## Welcome to Your Deep Learning Odyssey! 🚀
 
@@ -37,7 +37,11 @@ As the sole creator of this project, I've woven my personal experiences, learnin
   - [New to Matplotlib?]()
 2. **Machine Learning Bases**
   - [sklearn Tutorials](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sclearn_tutorial/1.%20Intro%20To%20sclearn.ipynb)-- An assistant tool to help you focus on concepts but details
-  - 
+    - [1. Intro To sklearn](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/1.%20Intro%20To%20sklearn.ipynb)
+    - [2. Data Representation](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/2.%20Data%20Representation.ipynb)
+    - [3. Estimator API](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/3.%20Estimator%20API.ipynb)
+    - [4. Conventions](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/4.%20Conventions.ipynb)
+    - [5. Linear Modeling](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/5.%20Linear%20Modeling.ipynb)
 
 ## Contribute & Collaborate 👐
 
