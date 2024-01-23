@@ -1,5 +1,7 @@
 # Comprehensive Deep Learning Tutorial: From Zero To Hero 🌟
-### $${\color{red}\text{New\ Version\ Being\ Updated!\ Last\ Update:\ DEC\ 28,\ 2023}}$$
+### $${\color{red}\text{New\ Version\ Being\ Updated!\ Last\ Update:\ Jan\ 22,\ 2024}}$$
+
+#### I am re-producing and re-regulating the contents as a complete Free Online Book.
 
 ## Welcome to Your Deep Learning Odyssey! 🚀
 
@@ -45,6 +47,9 @@ As the sole creator of this project, I've woven my personal experiences, learnin
     - [3. Estimator API](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/3.%20Estimator%20API.ipynb)
     - [4. Conventions](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/4.%20Conventions.ipynb)
     - [5. Linear Modeling](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/5.%20Linear%20Modeling.ipynb)
+    - [6. Polynomial Features](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/6.%20Polynomial%20Features.ipynb)
+    - [7. SGD - Stochastic Gradient Descent](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/7.%20SGD-Stochastic%20Gradient%20Descent.ipynb)
+    - [8. SVM - Support Vector Machine](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/sklearn_tutorial/8.%20SVM%20-%20Support%20Vector%20Machine.ipynb)
    
 **Tools and Tips**
 - [Explore Jupyter Notebook](https://github.com/PeiranLi0930/Comprehensive_DL_Tutor/blob/main/ScientificPy/TipsForJN.ipynb)
