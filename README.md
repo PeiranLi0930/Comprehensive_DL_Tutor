@@ -1,5 +1,5 @@
 # Comprehensive Deep Learning Tutorial: From Zero To Hero 🌟
-### $${\color{red}\text{New\ Version\ Being\ Updated!\ Last\ Update:\ Jan\ 22,\ 2024}}$$
+### $${\color{blue}\text{Estimate\ Complete\ Time:\ Dec 2024}}$$
 
 #### I am re-producing and re-regulating the contents as a complete Free Online Book.
 
