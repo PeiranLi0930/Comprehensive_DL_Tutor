@@ -1,7 +1,7 @@
 # Comprehensive Deep Learning Tutorial: From Zero To Hero 🌟
 ### $${\color{blue}\text{Estimated\ Complete\ Time:\ Dec 2024}}$$
 
-#### I am re-producing and re-regulating the contents as a complete Free Online Book.
+#### I am restructuring the content of this git repository to make it clear and organized. This version will later be published as a free online book.
 
 ## Welcome to Your Deep Learning Odyssey! 🚀
 
